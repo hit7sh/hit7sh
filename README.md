@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hitesh Saini</h1>
 <h3 align="center">A guy who loves coding.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hit7sh" alt="hit7sh" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hit7sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="hit7sh" height="30" width="40" /></a>
