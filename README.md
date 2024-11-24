@@ -1,15 +1,15 @@
+<!-- Template taken from https://github.com/devanshjain2110 -->
 ![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devansh Jain
 ====================================================================================================================================
-
 Web Developer
 -------------
 
 I'm a front-end developer who is passionate about learning new tech. I enjoy building web apps. Right now, my primary focus is React (Next.js).
 
 * 🌍  I'm based in Gurgaon, India.
-* ✉️  You can contact me at [devanshjain2904@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=hit7sh@gmail.com)
+* ✉️  You can contact me at [hit7sh@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=hit7sh@gmail.com)
 
 ## **Technical Skills**
 
