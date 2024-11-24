@@ -1,7 +1,65 @@
 <h1 align="center">Hi 👋, I'm Hitesh Saini</h1>
 <h3 align="center">Developer</h3>
+# Technical Skills & Achievements
 
+## **Technical Skills**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&psig=AOvVaw0t0GNC7uFrsD3WXGz2fp0G&ust=1732553117850000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjEkLu19YkDFQAAAAAdAAAAABAE)" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### **Languages**
+- Javascript
+- TypeScript
+- Shell scripting
+- Java
+- C++
+- Python (Core)
+- HTML
+- CSS
+- SQL
 
+### **Frameworks**
+- Next.js
+- React.js
+- Redux and Recoil (State management)
+- Axios
+- Jest (Unit testing)
+- Node.js (Express)
+- Tailwind CSS
+
+### **Database**
+- PostgreSQL
+- MongoDB
+- Prisma ORM
+
+### **DevOps & CI/CD**
+- Docker
+- Docker Compose
+- Kubernetes
+- GitHub Actions
+- AWS (EC2, S3, IAM)
+- Remote SSH
+- Pre-commit hooks
+
+### **Agile Methodology**
+- Rally (Progress tracking)
+- Iteration Planning
+- Sprint Planning
+- Daily Scrum Meetings
+- Retrospectives
+
+---
+
+## **Achievements**
+
+### **Google Kickstart 2022**
+- Secured World Rank 245 in Google Kickstart 2022 Round G.
+
+### **Facebook (Meta) Hackercup**
+- Secured AIR 14 (World Rank 164) in Facebook Hackercup Round 1.
+
+### **Competitive Programming Platforms**
+- **Codeforces**: Expert Rating. Solved 1500+ competitive coding problems.
+- **Codechef**: 5 Star Rating.
+- **Leetcode**: Solved 650+ problems. Rated 2200.
+- **GeeksforGeeks**: Secured Rank 2 in weekly contest.
+
+### **Hackathons**
+- **Coderush Indus Valley Partners (IVP) Hackathon**: Top 10 finalist in IVP Hackathon 2022. Won prizes.
