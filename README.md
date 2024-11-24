@@ -1,7 +1,15 @@
-<img src="https://camo.githubusercontent.com/64fde10e402d3aaab6bdf83b74dd7275e18ec28ba031fa0fdb0c48990ab963d3/68747470733a2f2f7777772e6368617270656e692e636f6d2f7374617469632f696d616765732f6172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696e6b2f62616e6e65722e676966" />
+![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Hitesh Saini.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devansh Jain
+====================================================================================================================================
 
+Web Developer
+-------------
+
+Hello, I'm Devansh. I'm a front-end developer who is passionate about learning new tech. I enjoy building web apps. Right now, my primary focus is React (Next.js).
+
+* 🌍  I'm based in Gurgaon, India.
+* ✉️  You can contact me at [devanshjain2904@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=hit7sh@gmail.com)
 
 ## **Technical Skills**
 
