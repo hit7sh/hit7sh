@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a front-end developer who is passionate about learning new tech. I enjoy building web apps. Right now, my primary focus is React (Next.js).
+I'm a full stack developer who is passionate about learning new tech. I enjoy building web apps. Right now, my primary focus is React (Next.js).
 
 * 🌍  I'm based in Gurgaon, India.
 * ✉️  You can contact me at [hit7sh@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=hit7sh@gmail.com)
